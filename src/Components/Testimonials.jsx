@@ -27,6 +27,7 @@ const Testimonials = () => {
 
      const slideTransform = `translateX(-${currentIndex * (100 / cardsPerPage)}%)`;
 
+     
     const isScrollable = width <= 600;
 
     return (
