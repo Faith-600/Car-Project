@@ -28,7 +28,7 @@ const Footer = () => {
         <div className="footer-contact">
           <h4>Informazioni di contatto</h4>
           <p>+1 (555) 123-4567</p>
-          <p>info@eliacars.com</p>
+          <p>info@eliacar.com</p>
           <p> 123 Eliaco<br/>Premium City, PC 12345</p>
         </div>
       </div>

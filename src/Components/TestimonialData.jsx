@@ -6,7 +6,7 @@ const testimonialsData = [
     location: 'Miami, Florida',
     image: 'head3.jpg',
     rating: 5,
-    text: '"Guidare la Porsche 911 è stato un sogno! Eliacars ha offerto un servizio clienti eccezionale e ha reso la mia occasione speciale indimenticabile."',
+    text: '"Guidare la Porsche 911 è stato un sogno! Eliacar ha offerto un servizio clienti eccezionale e ha reso la mia occasione speciale indimenticabile."',
     link: 'Porsche 911 Turbo S',
   },
   {
@@ -15,7 +15,7 @@ const testimonialsData = [
     location: 'New York, NY',
     image: 'head2.jpg',
     rating: 5,
-    text: '"Ho venduto la mia vecchia auto a Eliacars e ho fatto un affare incredibile! Valutazione rapida, prezzo onesto e pagamento immediato. Consigliatissimo.!"',
+    text: '"Ho venduto la mia vecchia auto a Eliacar e ho fatto un affare incredibile! Valutazione rapida, prezzo onesto e pagamento immediato. Consigliatissimo.!"',
     link: 'Esperienza di vendita di auto',
   },
   {
@@ -24,7 +24,7 @@ const testimonialsData = [
     location: 'Seattle, WA',
     image: 'head5.jpg',
     rating: 5,
-    text: '"La Ferrari F8 era assolutamente spettacolare! Perfetta per festeggiare il nostro anniversario. Lintero team di Eliacars ha dato il massimo."',
+    text: '"La Ferrari F8 era assolutamente spettacolare! Perfetta per festeggiare il nostro anniversario. Lintero team di Eliacar ha dato il massimo."',
     link: 'Ferrari F8 Tributo',
   },
   {
