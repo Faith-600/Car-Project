@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-about">
           <h3 className="footer-logo">
-            <span className="logo-yellow">E</span>LIACARS
+            <span className="logo-yellow">E</span>LIACAR
           </h3>
           <p>La tua destinazione ideale per veicoli di lusso e ad alte prestazioni.</p>
         </div>

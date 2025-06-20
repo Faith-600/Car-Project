@@ -57,7 +57,7 @@ const Hero = () => {
     >
       <header className="header">
         <div className="logo">
-          <span className="logo-yellow">E</span>LIACARS
+          <span className="logo-yellow">E</span>LIACAR
         </div>
         
         {/* Desktop Navigation */}
