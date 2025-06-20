@@ -34,7 +34,7 @@ const Testimonials = () => {
         <div className="testimonials-section">
             <div className="testimonials-header">
                 <h2>Cosa dicono i nostri clienti</h2>
-                <p>Non fidarti solo della nostra parola. Scopri cosa dicono i nostri clienti soddisfatti della loro esperienza con Eliacars.</p>
+                <p>Non fidarti solo della nostra parola. Scopri cosa dicono i nostri clienti soddisfatti della loro esperienza con Eliacar.</p>
             </div>
              <div className="slider-container">
                 <button onClick={handlePrev} className="slider-btn prev-btn" disabled={currentIndex === 0}>←</button>
